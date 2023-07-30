@@ -1,0 +1,33 @@
+credentials:
+  usernames:
+    patrick.barbosa:
+      email: jsmith@gmail.com
+      name: Patrick Barbosa
+      password: $2b$12$pBBHbeKglNRbKiS8s67D2OnvRLIXSmjbU5v6qvlrdPoSzATWP.twK
+    barbara.veloso:
+      email: rbriggs@gmail.com
+      name: Barbara Veloso
+      password: $2b$12$q00PCde.bRU/5Pg3f4Za8OLSyVyndUiWqEH3OixRdB2PoR7016/8G
+    joao.araujo:
+      email: rbriggs@gmail.com
+      name: João Araújo
+      password: $2b$12$IKtZudMXrUmRgaOgmujUQuqKI8PAqRqqJJ/tWMvpSl.hMYxzemB9y
+    hugo.donato:
+      email: rbriggs@gmail.com
+      name: Hugo Donato
+      password: $2b$12$bnkbVPlMnXK7XmddD2CF/eD93vkQYwC33HCob8p8yhrj.KsPWn00K
+    vanessa.borges:
+      email: rbriggs@gmail.com
+      name: Vanessa Borges
+      password: $2b$12$bHuhb9dRzyE4yd6Iy9LkOukazPNFBBdfM7aBO4E8Wd8dTsvjOHdGW
+    fahren:
+      email: rbriggs@gmail.com
+      name: Rebeca Praxedes
+      password: $2b$12$D981yeMWkDdfQUcuiYDZX.4l.gbHm8E2LdG1UYDmFEvdaSb0qdWm6
+cookie:
+  expiry_days: 14
+  key: asd1a89s1fasdsa81d
+  name: Ficha de Cadastro
+preauthorized:
+  emails:
+  - melsby@gmail.com
